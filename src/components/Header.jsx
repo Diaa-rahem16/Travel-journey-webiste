@@ -8,7 +8,7 @@ export default function Header() {
     <header className="header">
       <img className="logo" src={logo} alt="react-logo" />
       <div className="info">
-        <h3 className="user-name">Rahem Diaa eddine</h3>
+        <h3 className="user-name">Rahem Diaa eddine r</h3>
         <p className="job-name">Junior Front end developer</p>
       </div>
       <div className="buttons">
