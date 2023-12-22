@@ -10,6 +10,7 @@ export default function Footer() {
         target="_blank"
         rel="noopener noreferrer"
       >
+	<span> try <span/>
         <FontAwesomeIcon icon={faGithubSquare} className="footer--icon" />
       </a>
       <a
@@ -19,7 +20,11 @@ export default function Footer() {
       >
         <FontAwesomeIcon icon={faLinkedin} className="footer--icon" />
       </a>
+<<<<<<< HEAD
       <p>hello nm</p>
+=======
+      <p>hello diaa</p>
+>>>>>>> UpdateText
     </footer>
   );
 }
