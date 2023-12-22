@@ -19,7 +19,7 @@ export default function Footer() {
       >
         <FontAwesomeIcon icon={faLinkedin} className="footer--icon" />
       </a>
-      <p>hello</p>
+      <p>hello diaa</p>
     </footer>
   );
 }
